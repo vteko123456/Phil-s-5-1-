@@ -1,0 +1,19 @@
+{
+  "name": "Eat My Grass",
+  "roster": [
+    "Kyle",
+    "Philip",
+    "JD",
+    "Johnny",
+    "Warren",
+    "Harrison",
+    "Jay"
+  ],
+  "labels": [
+    "Serve",
+    "Receive",
+    "Set",
+    "Hit",
+    "Block"
+  ]
+}
